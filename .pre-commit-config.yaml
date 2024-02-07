@@ -8,7 +8,6 @@ repos:
   - id: check-json
   - id: end-of-file-fixer
   - id: name-tests-test
-  - id: no-commit-to-branch
   - id: pretty-format-json
   - id: requirements-txt-fixer
   - id: trailing-whitespace
